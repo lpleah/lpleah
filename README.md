@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lpleah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Li Liping
+- 👀 I’m interested in visual art
+- 🌱 I’m currently learning watercolor
+- 💞️ I’m looking to collaborate on an exhibition
+- 📫 How to reach me li.lp@foxmail.com
 
 <!---
 lpleah/lpleah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
